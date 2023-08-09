@@ -1,2 +1,2 @@
 second file
-done modification 
+done modification, will cause trouble 
