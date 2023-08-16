@@ -1,2 +1,6 @@
 second file
+<<<<<<< HEAD
 done modification no problem 
+=======
+done modification, will cause trouble 
+>>>>>>> very_bad
